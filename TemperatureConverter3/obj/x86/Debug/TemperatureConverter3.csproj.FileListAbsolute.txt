@@ -1,0 +1,14 @@
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.csprojAssemblyReference.cache
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\About.baml
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\MainWindow.baml
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\About.g.cs
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\MainWindow.g.cs
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\App.g.cs
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3_MarkupCompile.cache
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.g.resources
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.Properties.Resources.resources
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.csproj.GenerateResource.cache
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\bin\Debug\TemperatureConverter3.exe
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\bin\Debug\TemperatureConverter3.pdb
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.exe
+D:\Descargas\TemperatureConverter_WPF-master\TemperatureConverter_WPF-master\TemperatureConverter3\obj\x86\Debug\TemperatureConverter3.pdb
